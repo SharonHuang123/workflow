@@ -45,3 +45,5 @@ var flowData = [{
  // 画流程图
  flowChart.draw(flowData);
  ```
+## 效果图如下
+![](/img.png)
